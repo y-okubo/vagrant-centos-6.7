@@ -2,5 +2,3 @@
 
 * ~/.ssh 700
 * ~/.ssh/authorized_keys 0600
-
-http://www.vagrantbox.es/
